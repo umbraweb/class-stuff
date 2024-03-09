@@ -1,4 +1,4 @@
-//hehehe can you find this
+//information about the ammendments
 let amendment = prompt("Which amendment would you like to learn about?\n");
 
 if (amendment === "1") {
